@@ -1,0 +1,46 @@
+/* Apply a light blue background color and add spacing to all elements */
+* {
+    background-color: #77c17f;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* Style the main heading with a larger font size, bold text, and a sans-serif font family */
+h1 {
+    color: #2D3E50;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Apply a serif font family to a specific element with ID "grpSelect" */
+#grpSelect {
+    font-family: Georgia, serif;
+}
+
+/* Add a subtle border and box-shadow effect to all input elements */
+input {
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    border-color :red;
+}
+
+/* Style subheadings with a slightly larger font size and centered alignment */
+h3 {
+    color: #2D3E50;
+    font-size: 24px;
+    text-align: center;
+}
+
+/* Set the font color of dropdown options to a darker shade of gray */
+option {
+    color: #555;
+}
+
+/* Style subheadings with a slightly smaller font size, italicized text, and a sans-serif font family */
+h5 {
+    color: #E74C3C;
+    font-size: 18px;
+    font-style: italic;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
